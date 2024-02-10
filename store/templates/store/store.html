@@ -1,0 +1,18 @@
+{% extends 'store/main.html'%}
+{% load static%}
+{% block content %}
+<div class="row">
+    {% for x in productlist %}
+    <div class="col-lg-4">
+        <div class="box-element product">
+            <img class="thumbnail" src="{{x.imageURL}}" alt="">
+            <h6><strong>{{x.name}}</strong></h6>
+            <hr>
+            <button data-product="{{x.id}}" data-action="add" class="btn btn-outline-secondary add-btn update-cart">Add to Cart</button>
+            <a class="btn btn-outline-success" href="#">View</a>
+            <h4 style="display: inline-block;">{{x.price}}</h4>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock content %}
