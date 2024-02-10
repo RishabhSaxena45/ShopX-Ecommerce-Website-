@@ -7,3 +7,5 @@ Update Cart
 ![Screenshot (398)](https://github.com/RishabhSaxena45/ShopX-Ecommerce-Website-/assets/136158506/e79cc319-6a16-43b1-a4f8-c6e7f96630a8)
 Checkout Page
 ![Screenshot (399)](https://github.com/RishabhSaxena45/ShopX-Ecommerce-Website-/assets/136158506/2f7faa02-02ca-4fef-b2fe-ed50df1516c7)
+Final Order
+![Screenshot (400)](https://github.com/RishabhSaxena45/ShopX-Ecommerce-Website-/assets/136158506/9f6d8c9e-4a9e-4410-b4d1-60e9c78f600f)
